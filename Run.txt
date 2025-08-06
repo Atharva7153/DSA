@@ -1,2 +1,4 @@
 g++ myfile.cpp -o main.exe
 .\main.exe
+
+g++ myFile.cpp -o main.exe ; .\main.exe
